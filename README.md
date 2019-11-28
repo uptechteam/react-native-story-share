@@ -1,5 +1,7 @@
 # react-native-story-share
 
+This branch only supports Android
+
 Share your images to instagram and snapchat stories.
 
 | OS | Type | Supported |
